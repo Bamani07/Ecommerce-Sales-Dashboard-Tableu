@@ -1,4 +1,4 @@
-# Ecommerce-Sales-Dashboard-Tableu
+# Ecommerce-Sales-Dashboard-Tableau
 
 An interactive Tableau dashboard built to analyze e-commerce sales, customer behavior, product performance, and business insights. This project demonstrates dashboard design, KPI development, calculated fields, interactive filters, and data storytelling using Tableau.
 
